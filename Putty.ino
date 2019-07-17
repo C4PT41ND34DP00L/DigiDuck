@@ -1,3 +1,5 @@
+//Downloads Putyy and tel nets into towel.blinkenlights.nl
+//Starts playing Star Wars
 #include "DigiKeyboard.h"
 void setup() {
   // put your setup code here, to run once:
